@@ -5318,3 +5318,290 @@
 [2023-07-06 06:22:12,252] {logging_mixin.py:104} INFO - [2023-07-06 06:22:12,252] {dag.py:1832} INFO - Sync 1 DAGs
 [2023-07-06 06:22:12,266] {logging_mixin.py:104} INFO - [2023-07-06 06:22:12,266] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
 [2023-07-06 06:22:12,274] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.069 seconds
+[2023-07-06 06:22:42,385] {scheduler_job.py:182} INFO - Started process (PID=428222) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:22:42,386] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:22:42,387] {logging_mixin.py:104} INFO - [2023-07-06 06:22:42,387] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:22:42,420] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:22:42,432] {logging_mixin.py:104} INFO - [2023-07-06 06:22:42,432] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:22:42,447] {logging_mixin.py:104} INFO - [2023-07-06 06:22:42,447] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:22:42,455] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.074 seconds
+[2023-07-06 06:23:12,570] {scheduler_job.py:182} INFO - Started process (PID=428268) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:23:12,573] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:23:12,574] {logging_mixin.py:104} INFO - [2023-07-06 06:23:12,574] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:23:12,602] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:23:12,612] {logging_mixin.py:104} INFO - [2023-07-06 06:23:12,612] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:23:12,627] {logging_mixin.py:104} INFO - [2023-07-06 06:23:12,627] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:23:12,635] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.069 seconds
+[2023-07-06 06:23:42,775] {scheduler_job.py:182} INFO - Started process (PID=428305) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:23:42,776] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:23:42,777] {logging_mixin.py:104} INFO - [2023-07-06 06:23:42,777] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:23:42,807] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:23:42,817] {logging_mixin.py:104} INFO - [2023-07-06 06:23:42,817] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:23:42,832] {logging_mixin.py:104} INFO - [2023-07-06 06:23:42,832] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:23:42,840] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.070 seconds
+[2023-07-06 06:24:12,956] {scheduler_job.py:182} INFO - Started process (PID=428351) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:24:12,958] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:24:12,958] {logging_mixin.py:104} INFO - [2023-07-06 06:24:12,958] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:24:12,988] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:24:12,998] {logging_mixin.py:104} INFO - [2023-07-06 06:24:12,998] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:24:13,013] {logging_mixin.py:104} INFO - [2023-07-06 06:24:13,012] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:24:13,020] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.068 seconds
+[2023-07-06 06:24:43,138] {scheduler_job.py:182} INFO - Started process (PID=428398) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:24:43,139] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:24:43,140] {logging_mixin.py:104} INFO - [2023-07-06 06:24:43,140] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:24:43,171] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:24:43,182] {logging_mixin.py:104} INFO - [2023-07-06 06:24:43,182] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:24:43,197] {logging_mixin.py:104} INFO - [2023-07-06 06:24:43,197] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:24:43,205] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.071 seconds
+[2023-07-06 06:25:13,339] {scheduler_job.py:182} INFO - Started process (PID=428436) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:25:13,340] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:25:13,341] {logging_mixin.py:104} INFO - [2023-07-06 06:25:13,341] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:25:13,371] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:25:13,381] {logging_mixin.py:104} INFO - [2023-07-06 06:25:13,381] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:25:13,395] {logging_mixin.py:104} INFO - [2023-07-06 06:25:13,395] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:25:13,403] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.069 seconds
+[2023-07-06 06:25:43,525] {scheduler_job.py:182} INFO - Started process (PID=428473) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:25:43,527] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:25:43,527] {logging_mixin.py:104} INFO - [2023-07-06 06:25:43,527] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:25:43,558] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:25:43,569] {logging_mixin.py:104} INFO - [2023-07-06 06:25:43,569] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:25:43,585] {logging_mixin.py:104} INFO - [2023-07-06 06:25:43,585] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:25:43,593] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.073 seconds
+[2023-07-06 06:26:13,733] {scheduler_job.py:182} INFO - Started process (PID=428528) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:26:13,735] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:26:13,736] {logging_mixin.py:104} INFO - [2023-07-06 06:26:13,736] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:26:13,767] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:26:13,777] {logging_mixin.py:104} INFO - [2023-07-06 06:26:13,777] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:26:13,791] {logging_mixin.py:104} INFO - [2023-07-06 06:26:13,791] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:26:13,799] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.070 seconds
+[2023-07-06 06:26:43,914] {scheduler_job.py:182} INFO - Started process (PID=428566) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:26:43,915] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:26:43,916] {logging_mixin.py:104} INFO - [2023-07-06 06:26:43,916] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:26:43,947] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:26:43,957] {logging_mixin.py:104} INFO - [2023-07-06 06:26:43,957] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:26:43,971] {logging_mixin.py:104} INFO - [2023-07-06 06:26:43,971] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:26:43,978] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.069 seconds
+[2023-07-06 06:27:14,096] {scheduler_job.py:182} INFO - Started process (PID=428604) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:27:14,098] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:27:14,099] {logging_mixin.py:104} INFO - [2023-07-06 06:27:14,098] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:27:14,128] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:27:14,138] {logging_mixin.py:104} INFO - [2023-07-06 06:27:14,138] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:27:14,152] {logging_mixin.py:104} INFO - [2023-07-06 06:27:14,152] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:27:14,160] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.068 seconds
+[2023-07-06 06:27:44,286] {scheduler_job.py:182} INFO - Started process (PID=428660) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:27:44,288] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:27:44,288] {logging_mixin.py:104} INFO - [2023-07-06 06:27:44,288] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:27:44,318] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:27:44,328] {logging_mixin.py:104} INFO - [2023-07-06 06:27:44,328] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:27:44,342] {logging_mixin.py:104} INFO - [2023-07-06 06:27:44,342] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:27:44,349] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.068 seconds
+[2023-07-06 06:28:14,477] {scheduler_job.py:182} INFO - Started process (PID=428697) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:28:14,480] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:28:14,481] {logging_mixin.py:104} INFO - [2023-07-06 06:28:14,481] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:28:14,509] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:28:14,520] {logging_mixin.py:104} INFO - [2023-07-06 06:28:14,519] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:28:14,534] {logging_mixin.py:104} INFO - [2023-07-06 06:28:14,534] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:28:14,541] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.069 seconds
+[2023-07-06 06:28:44,674] {scheduler_job.py:182} INFO - Started process (PID=428734) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:28:44,676] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:28:44,676] {logging_mixin.py:104} INFO - [2023-07-06 06:28:44,676] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:28:44,708] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:28:44,718] {logging_mixin.py:104} INFO - [2023-07-06 06:28:44,718] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:28:44,733] {logging_mixin.py:104} INFO - [2023-07-06 06:28:44,733] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:28:44,741] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.071 seconds
+[2023-07-06 06:29:14,965] {scheduler_job.py:182} INFO - Started process (PID=428789) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:29:14,966] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:29:14,967] {logging_mixin.py:104} INFO - [2023-07-06 06:29:14,967] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:29:15,000] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:29:15,010] {logging_mixin.py:104} INFO - [2023-07-06 06:29:15,010] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:29:15,025] {logging_mixin.py:104} INFO - [2023-07-06 06:29:15,025] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:29:15,033] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.074 seconds
+[2023-07-06 06:29:45,169] {scheduler_job.py:182} INFO - Started process (PID=428826) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:29:45,170] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:29:45,171] {logging_mixin.py:104} INFO - [2023-07-06 06:29:45,171] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:29:45,201] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:29:45,212] {logging_mixin.py:104} INFO - [2023-07-06 06:29:45,212] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:29:45,230] {logging_mixin.py:104} INFO - [2023-07-06 06:29:45,230] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:29:45,239] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.075 seconds
+[2023-07-06 06:30:15,386] {scheduler_job.py:182} INFO - Started process (PID=428864) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:30:15,388] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:30:15,388] {logging_mixin.py:104} INFO - [2023-07-06 06:30:15,388] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:30:15,418] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:30:15,429] {logging_mixin.py:104} INFO - [2023-07-06 06:30:15,428] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:30:15,445] {logging_mixin.py:104} INFO - [2023-07-06 06:30:15,445] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:30:15,454] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.072 seconds
+[2023-07-06 06:30:45,596] {scheduler_job.py:182} INFO - Started process (PID=428914) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:30:45,598] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:30:45,598] {logging_mixin.py:104} INFO - [2023-07-06 06:30:45,598] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:30:45,630] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:30:45,641] {logging_mixin.py:104} INFO - [2023-07-06 06:30:45,641] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:30:45,657] {logging_mixin.py:104} INFO - [2023-07-06 06:30:45,657] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:30:45,665] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.073 seconds
+[2023-07-06 06:31:15,803] {scheduler_job.py:182} INFO - Started process (PID=428960) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:31:15,805] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:31:15,806] {logging_mixin.py:104} INFO - [2023-07-06 06:31:15,805] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:31:15,841] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:31:15,854] {logging_mixin.py:104} INFO - [2023-07-06 06:31:15,854] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:31:15,869] {logging_mixin.py:104} INFO - [2023-07-06 06:31:15,869] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:31:15,876] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.078 seconds
+[2023-07-06 06:31:46,010] {scheduler_job.py:182} INFO - Started process (PID=428998) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:31:46,012] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:31:46,013] {logging_mixin.py:104} INFO - [2023-07-06 06:31:46,012] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:31:46,043] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:31:46,054] {logging_mixin.py:104} INFO - [2023-07-06 06:31:46,054] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:31:46,068] {logging_mixin.py:104} INFO - [2023-07-06 06:31:46,068] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:31:46,076] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.070 seconds
+[2023-07-06 06:32:16,251] {scheduler_job.py:182} INFO - Started process (PID=429045) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:32:16,252] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:32:16,253] {logging_mixin.py:104} INFO - [2023-07-06 06:32:16,253] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:32:16,282] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:32:16,292] {logging_mixin.py:104} INFO - [2023-07-06 06:32:16,292] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:32:16,306] {logging_mixin.py:104} INFO - [2023-07-06 06:32:16,306] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:32:16,314] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.067 seconds
+[2023-07-06 06:32:46,449] {scheduler_job.py:182} INFO - Started process (PID=429090) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:32:46,451] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:32:46,452] {logging_mixin.py:104} INFO - [2023-07-06 06:32:46,452] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:32:46,483] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:32:46,493] {logging_mixin.py:104} INFO - [2023-07-06 06:32:46,493] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:32:46,507] {logging_mixin.py:104} INFO - [2023-07-06 06:32:46,507] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:32:46,516] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.070 seconds
+[2023-07-06 06:33:16,646] {scheduler_job.py:182} INFO - Started process (PID=429128) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:33:16,648] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:33:16,649] {logging_mixin.py:104} INFO - [2023-07-06 06:33:16,649] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:33:16,679] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:33:16,689] {logging_mixin.py:104} INFO - [2023-07-06 06:33:16,689] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:33:16,705] {logging_mixin.py:104} INFO - [2023-07-06 06:33:16,705] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:33:16,713] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.071 seconds
+[2023-07-06 06:33:46,848] {scheduler_job.py:182} INFO - Started process (PID=429174) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:33:46,849] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:33:46,850] {logging_mixin.py:104} INFO - [2023-07-06 06:33:46,850] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:33:46,880] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:33:46,890] {logging_mixin.py:104} INFO - [2023-07-06 06:33:46,890] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:33:46,904] {logging_mixin.py:104} INFO - [2023-07-06 06:33:46,904] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:33:46,912] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.068 seconds
+[2023-07-06 06:34:17,052] {scheduler_job.py:182} INFO - Started process (PID=429220) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:34:17,053] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:34:17,054] {logging_mixin.py:104} INFO - [2023-07-06 06:34:17,054] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:34:17,084] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:34:17,095] {logging_mixin.py:104} INFO - [2023-07-06 06:34:17,094] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:34:17,109] {logging_mixin.py:104} INFO - [2023-07-06 06:34:17,109] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:34:17,117] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.069 seconds
+[2023-07-06 06:34:47,261] {scheduler_job.py:182} INFO - Started process (PID=429257) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:34:47,263] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:34:47,264] {logging_mixin.py:104} INFO - [2023-07-06 06:34:47,264] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:34:47,294] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:34:47,304] {logging_mixin.py:104} INFO - [2023-07-06 06:34:47,304] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:34:47,319] {logging_mixin.py:104} INFO - [2023-07-06 06:34:47,319] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:34:47,327] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.070 seconds
+[2023-07-06 06:35:17,492] {scheduler_job.py:182} INFO - Started process (PID=429296) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:35:17,494] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:35:17,494] {logging_mixin.py:104} INFO - [2023-07-06 06:35:17,494] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:35:17,527] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:35:17,537] {logging_mixin.py:104} INFO - [2023-07-06 06:35:17,537] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:35:17,552] {logging_mixin.py:104} INFO - [2023-07-06 06:35:17,551] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:35:17,559] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.072 seconds
+[2023-07-06 06:35:47,702] {scheduler_job.py:182} INFO - Started process (PID=429350) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:35:47,703] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:35:47,704] {logging_mixin.py:104} INFO - [2023-07-06 06:35:47,704] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:35:47,734] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:35:47,744] {logging_mixin.py:104} INFO - [2023-07-06 06:35:47,744] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:35:47,759] {logging_mixin.py:104} INFO - [2023-07-06 06:35:47,758] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:35:47,766] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.069 seconds
+[2023-07-06 06:36:17,902] {scheduler_job.py:182} INFO - Started process (PID=429388) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:36:17,903] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:36:17,904] {logging_mixin.py:104} INFO - [2023-07-06 06:36:17,904] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:36:17,935] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:36:17,946] {logging_mixin.py:104} INFO - [2023-07-06 06:36:17,946] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:36:17,961] {logging_mixin.py:104} INFO - [2023-07-06 06:36:17,960] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:36:17,968] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.071 seconds
+[2023-07-06 06:36:48,103] {scheduler_job.py:182} INFO - Started process (PID=429427) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:36:48,104] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:36:48,105] {logging_mixin.py:104} INFO - [2023-07-06 06:36:48,105] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:36:48,135] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:36:48,145] {logging_mixin.py:104} INFO - [2023-07-06 06:36:48,145] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:36:48,159] {logging_mixin.py:104} INFO - [2023-07-06 06:36:48,159] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:36:48,166] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.068 seconds
+[2023-07-06 06:37:18,319] {scheduler_job.py:182} INFO - Started process (PID=429481) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:37:18,321] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:37:18,321] {logging_mixin.py:104} INFO - [2023-07-06 06:37:18,321] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:37:18,350] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:37:18,361] {logging_mixin.py:104} INFO - [2023-07-06 06:37:18,360] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:37:18,374] {logging_mixin.py:104} INFO - [2023-07-06 06:37:18,374] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:37:18,383] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.068 seconds
+[2023-07-06 06:37:48,527] {scheduler_job.py:182} INFO - Started process (PID=429518) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:37:48,529] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:37:48,530] {logging_mixin.py:104} INFO - [2023-07-06 06:37:48,530] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:37:48,562] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:37:48,573] {logging_mixin.py:104} INFO - [2023-07-06 06:37:48,573] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:37:48,588] {logging_mixin.py:104} INFO - [2023-07-06 06:37:48,588] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:37:48,596] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.073 seconds
+[2023-07-06 06:38:18,703] {scheduler_job.py:182} INFO - Started process (PID=429555) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:38:18,706] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:38:18,707] {logging_mixin.py:104} INFO - [2023-07-06 06:38:18,707] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:38:18,738] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:38:18,749] {logging_mixin.py:104} INFO - [2023-07-06 06:38:18,749] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:38:18,764] {logging_mixin.py:104} INFO - [2023-07-06 06:38:18,764] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:38:18,772] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.074 seconds
+[2023-07-06 06:38:48,892] {scheduler_job.py:182} INFO - Started process (PID=429609) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:38:48,893] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:38:48,894] {logging_mixin.py:104} INFO - [2023-07-06 06:38:48,894] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:38:48,925] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:38:48,936] {logging_mixin.py:104} INFO - [2023-07-06 06:38:48,936] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:38:48,951] {logging_mixin.py:104} INFO - [2023-07-06 06:38:48,950] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:38:48,959] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.071 seconds
+[2023-07-06 06:39:19,078] {scheduler_job.py:182} INFO - Started process (PID=429646) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:39:19,080] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:39:19,081] {logging_mixin.py:104} INFO - [2023-07-06 06:39:19,081] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:39:19,111] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:39:19,120] {logging_mixin.py:104} INFO - [2023-07-06 06:39:19,120] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:39:19,134] {logging_mixin.py:104} INFO - [2023-07-06 06:39:19,134] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:39:19,141] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.067 seconds
+[2023-07-06 06:39:49,265] {scheduler_job.py:182} INFO - Started process (PID=429685) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:39:49,267] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:39:49,268] {logging_mixin.py:104} INFO - [2023-07-06 06:39:49,268] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:39:49,298] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:39:49,308] {logging_mixin.py:104} INFO - [2023-07-06 06:39:49,308] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:39:49,322] {logging_mixin.py:104} INFO - [2023-07-06 06:39:49,322] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:39:49,330] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.069 seconds
+[2023-07-06 06:40:19,449] {scheduler_job.py:182} INFO - Started process (PID=429735) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:40:19,451] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:40:19,452] {logging_mixin.py:104} INFO - [2023-07-06 06:40:19,451] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:40:19,486] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:40:19,497] {logging_mixin.py:104} INFO - [2023-07-06 06:40:19,497] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:40:19,513] {logging_mixin.py:104} INFO - [2023-07-06 06:40:19,513] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:40:19,522] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.079 seconds
+[2023-07-06 06:40:49,656] {scheduler_job.py:182} INFO - Started process (PID=429780) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:40:49,658] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:40:49,659] {logging_mixin.py:104} INFO - [2023-07-06 06:40:49,659] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:40:49,689] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:40:49,699] {logging_mixin.py:104} INFO - [2023-07-06 06:40:49,698] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:40:49,713] {logging_mixin.py:104} INFO - [2023-07-06 06:40:49,713] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:40:49,721] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.069 seconds
+[2023-07-06 06:41:19,848] {scheduler_job.py:182} INFO - Started process (PID=429817) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:41:19,849] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:41:19,850] {logging_mixin.py:104} INFO - [2023-07-06 06:41:19,850] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:41:19,880] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:41:19,890] {logging_mixin.py:104} INFO - [2023-07-06 06:41:19,889] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:41:19,903] {logging_mixin.py:104} INFO - [2023-07-06 06:41:19,903] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:41:19,911] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.074 seconds
+[2023-07-06 06:41:50,029] {scheduler_job.py:182} INFO - Started process (PID=429865) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:41:50,031] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:41:50,031] {logging_mixin.py:104} INFO - [2023-07-06 06:41:50,031] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:41:50,061] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:41:50,072] {logging_mixin.py:104} INFO - [2023-07-06 06:41:50,072] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:41:50,087] {logging_mixin.py:104} INFO - [2023-07-06 06:41:50,087] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:41:50,095] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.070 seconds
+[2023-07-06 06:42:20,218] {scheduler_job.py:182} INFO - Started process (PID=429909) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:42:20,220] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:42:20,220] {logging_mixin.py:104} INFO - [2023-07-06 06:42:20,220] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:42:20,255] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:42:20,265] {logging_mixin.py:104} INFO - [2023-07-06 06:42:20,265] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:42:20,280] {logging_mixin.py:104} INFO - [2023-07-06 06:42:20,280] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:42:20,288] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.075 seconds
+[2023-07-06 06:42:50,414] {scheduler_job.py:182} INFO - Started process (PID=429946) to work on /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:42:50,416] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/dag_collect_match.py for tasks to queue
+[2023-07-06 06:42:50,417] {logging_mixin.py:104} INFO - [2023-07-06 06:42:50,417] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:42:50,447] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['collect_match']) retrieved from /opt/airflow/dags/dag_collect_match.py
+[2023-07-06 06:42:50,457] {logging_mixin.py:104} INFO - [2023-07-06 06:42:50,457] {dag.py:1832} INFO - Sync 1 DAGs
+[2023-07-06 06:42:50,472] {logging_mixin.py:104} INFO - [2023-07-06 06:42:50,472] {dag.py:2305} INFO - Setting next_dagrun for collect_match to 2023-06-16 00:00:00+00:00
+[2023-07-06 06:42:50,480] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_collect_match.py took 0.070 seconds
